@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Gustavogrungekk
+## Hi! I'm Gustavo Barreto Passaionate by Data and AI
+
 - 👀 I’m interested in Data Science/Machine learning
 - 🌱 I’m currently learning Neural Nets & Deep Learning/NPL
 - 📫 How to reach me? Just write me!
@@ -9,7 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavogrungekk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavogrungekk&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+  
+  
 <div style="display: inline_block"><br>
  <img align="center" alt="Gust-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Gust-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> 
