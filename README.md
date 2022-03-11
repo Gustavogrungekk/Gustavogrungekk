@@ -1,16 +1,16 @@
 ## Hi there! I'm Gustavo!✌
 
 - 👀 I’m interested in Data Science/Machine learning
-- 🌱 I’m currently learning Neural Nets & Deep Learning/NPL
+- 🌱 I’m currently learning/studying Neural Nets & Deep Learning/NPL
 - 📫 How to reach me? Just write me!
 
 
-<div align="center">
+<div align="left">
  <a href="https://github.com/Gustavogrungekk">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavogrungekk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavogrungekk&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-  
   
 <div style="display: inline_block"><br>
  <img align="center" alt="Gust-Python" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,6 +19,7 @@
  <img align="center" alt="Gust-PostG" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
+ 
 ##
  <div> 
   <a href = "mailto:gustavosk8vidaskate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
