@@ -17,6 +17,7 @@
  <img align="center" alt="Gust-SQL" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Gust-PostG" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
  <img align="center" alt="Gust-PostG" height="60" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439">
+ <img align="center" alt="Gust-PostG" height="60" width="90" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo-1.png">
 </div>
 
  
