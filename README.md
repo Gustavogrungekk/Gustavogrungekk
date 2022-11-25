@@ -17,6 +17,7 @@
  <img align="center" alt="Gust-Python" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Gust-SQL" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Gust-PostG" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="center" alt="Gust-PostG" height="80" width="50" src="devicon-postgresql-plain-wordmark">
 </div>
 
  
