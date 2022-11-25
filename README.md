@@ -13,7 +13,7 @@
   
 <div style="display: inline_block"><br>
  <img align="center" alt="Gust-Pyspark" height="60" width="90" src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png">
- <img align="center" alt="Gust-aws" height="40" width="120" src="https://www.nicepng.com/png/full/142-1425229_aws-amazon-web-services-amazon-web-services-logo.png">
+ <img align="center" alt="Gust-aws" height="50" width="120" src="https://www.nicepng.com/png/full/142-1425229_aws-amazon-web-services-amazon-web-services-logo.png">
  <img align="center" alt="Gust-Python" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Gust-SQL" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Gust-PostG" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
