@@ -16,7 +16,8 @@
  <img align="center" alt="Gust-R" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> 
  <img align="center" alt="Gust-SQL" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Gust-PostG" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
- <img align="center" alt="Gust-PostG" height="80" width="50" src="https://icons8.com.br/icon/13654/ms-excel">
+ <img align="center" alt="Gust-PostG" height="80" width="50" src="![image](https://user-images.githubusercontent.com/82980172/204050617-49aa39a7-0331-4ea6-87ab-edbf8188ed76.png)
+"
 </div>
 
  
