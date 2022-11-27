@@ -18,6 +18,7 @@
   <img align="center" alt="Gust-R" height="80" width="50" src="https://www.r-project.org/logo/Rlogo.svg">
  <img align="center" alt="Gust-PostG" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
  <img align="center" alt="Gust-SQL" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="Gust-spark" height="80" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
 </div>
 
  
