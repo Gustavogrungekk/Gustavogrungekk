@@ -1,7 +1,7 @@
 ## Hi there! I'm Gustavo!✌
 
 - 👀 I’m interested in Data Science/Machine learning
-- 🌱 I’m currently learning/studying Neural Nets, Deep Learning/NPL & Data Engineering.
+- 🌱 I’m currently learning/studying Machine Learning & Data Engineering.
 - 📫 How to reach me? Just write me!
 
 
