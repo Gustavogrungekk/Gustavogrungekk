@@ -19,6 +19,7 @@
  <img align="center" alt="Gust-spark" height="80" width="70" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
  <img align="center" alt="Gust-AWS" height="80" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
  <img align="center" alt="Gust-jupyter" height="80" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
+ <img align="center" alt="Gust-jupyter" height="80" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/f1d4dd6cd52338a186f58bc29c437f64cf6b327b/SVG/Power-BI.svg">
 </div>
 
  
