@@ -1,6 +1,6 @@
 ## Hi there! I'm Gustavo!✌
 
-- 👀 I’m interested in Data Science/Machine learning
+- 👀 I’m interested in Data Engnineering & Machine Learning
 - 🌱 I’m currently learning/studying Machine Learning & Data Engineering.
 - 📫 How to reach me? Just write me!
 
