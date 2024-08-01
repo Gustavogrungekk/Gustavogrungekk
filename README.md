@@ -1,4 +1,5 @@
-## Welcome stranger👋 Let me guess... Someone stole your sweetroll...
+# Welcome stranger👋
+###### Let me guess... Someone stole your sweetroll...
 ⡶⠒⠒⠲⠒⠲⠒⠒⢶⣶⣶⣶⠶⠶⠶⠶⠶⠶⠶⠶⢶⠶⠶⠶⠶⣶⣶⣶⣶⡶⠶⠶⠶⣶⡶⠶⠶⠶⠶⠶⠶⠒⣶⣶⣶⠶⠶⠶⠶⠶
 ⣿⡄⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣦⣄⡀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠻⣿⡄⠀⣀⣤⣶⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀
 ⠙⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣤⣀⠀⠀⠀⠀⠈⠀⠀⣀⠀⢠⣀⣀⣀⣀⣀⣠⣤⣿⣷⠾⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰
@@ -20,8 +21,8 @@
 ⠀⠀⠀⠀⠀⠀⣿⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀
 
 - 👀 I’m interested in Data Engnineering & Machine Learning
-- 🌱 I’m currently working/studying Machine Learning & Data Engineering.
-- 📫 How to reach me? Just write me!
+- 📚 I’m currently working/studying with Machine Learning & Data Engineering although I spend most of my time fixing pipelines...
+- 📫 How to reach me? Just write me! No spams ok?
 
 
 <div align="left">
